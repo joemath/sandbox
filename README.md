@@ -1,4 +1,7 @@
 sandbox
 =======
 
-Sanbox for testing the GitHub client
+Sandbox for testing the GitHub client
+
+This is the readme file that was edited locally
+
